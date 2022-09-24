@@ -1,9 +1,9 @@
 import React from 'react'
 
-export function TravelCard() {
+export default function TravelCard() {
   return (
     <div>
-      
+
     </div>
   )
 }

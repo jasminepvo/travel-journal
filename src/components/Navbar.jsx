@@ -1,9 +1,14 @@
 import React from 'react'
+import Logo from '../assets/logo.png'
 
-export function Navbar() {
+
+export default function Navbar() {
   return (
-    <div>
-      
+    <div className='navbar'>
+      <nav>
+        <img src={Logo} />
+        <h4>my travel journal</h4>
+      </nav>
     </div>
   )
 }

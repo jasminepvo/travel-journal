@@ -1,0 +1,16 @@
+/***********************************
+********* Navbar **********
+***********************************/
+.navbar {
+	height: 10%;
+	width: 100%;
+	background-color: seashell;
+	opacity: 50%;
+	margin: 0 auto;
+}
+
+nav {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
