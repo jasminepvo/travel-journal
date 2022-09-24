@@ -8,7 +8,7 @@ export default function TravelCard(props) {
       <section className='card--details'>
         <div className='card--location'>
           <img src={MapIcon} className="location-icon"/>
-          <span className='location-name'>japan</span>
+          <span className='location-name'>J A P A N</span>
           <span className='location-link'><a href="">View on Google Maps</a></span>
         </div>
         <h1 className='card--title'>Mount Fuji</h1>

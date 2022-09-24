@@ -15,7 +15,35 @@
 }
 
 .card--details {
-	margin: 10px 0;
+	margin: 15px 0;
 	width: 100%;
+	max-height: 600px;
 	outline: 2px solid green;
+}
+
+.card--location {
+	display: flex;
+	flex-direction: row;
+	align-content: center;
+}
+
+.location-icon {
+	margin-right: 5px;
+}
+
+.location-name {
+	margin-right: 20px;
+}
+
+.location-link a {
+	text-decoration: underline;
+	color: #525155;
+}
+
+.card--title {
+	margin: 5px 0 15px 0;
+}
+
+.card--description {
+	margin: 10px 0 0 0;
 }
