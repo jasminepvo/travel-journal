@@ -1,44 +1,44 @@
 export default [
   {
     id: 1,
-    coverImg: "https://images.unsplash.com/photo-1510097467424-192d713fd8b2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1400&q=80",
+    coverImg: "https://source.unsplash.com/PW3tJkRkSy8",
     title: "Cancun",
     location: {
-      name: "MEXICO",
-      link: "",
+      name: "M E X I C O",
+      link: "https://goo.gl/maps/5MwdhSBvw3YjyyT28",
     },
     dates: {
-      startDate: "14 Jan, 2021",
-      endDate: "24 Jan, 2021"
+      startDate: "14 June, 2014",
+      endDate: "24 Jan, 2014"
     },
     description: "Visited Cancun with family and stayed in an all-inclusive resort. Swam with dolphins, jet-skied to the coral reef, laid in the sand for hours, explored the local shops,  and ate buffet for breakfast, lunch and dinner every day.",
   },
   {
     id: 2,
-    coverImg: "https://images.unsplash.com/photo-1510097467424-192d713fd8b2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1400&q=80",
-    title: "Cancun",
+    coverImg: "https://source.unsplash.com/WQwtk_t4oJI",
+    title: "Brooklyn / Manhattan",
     location: {
-      name: "MEXICO",
-      link: "",
+      name: "N Y C",
+      link: "https://goo.gl/maps/L2TMNjUx6PP7emku5",
     },
     dates: {
-      startDate: "14 Jan, 2021",
-      endDate: "24 Jan, 2021"
+      startDate: "24 Dec, 2021",
+      endDate: "1 Jan, 2022"
     },
-    description: "Visited Cancun with family and stayed in an all-inclusive resort. Swam with dolphins, jet-skied to the coral reef, laid in the sand for hours, explored the local shops,  and ate buffet for breakfast, lunch and dinner every day.",
+    description: "Experienced Christmas and New Years in New York. Visited: Grand Central Station, Manhattan Square, Chinatown. Ate soup dumplings and pizza every day. Made amazing lifelong friends.",
   },
   {
     id: 3,
-    coverImg: "https://source.unsplash.com/3PeSjpLVtLg",
-    title: "Cancun",
+    coverImg: "https://source.unsplash.com/2vB8q-Qdwrg",
+    title: "Destin",
     location: {
-      name: "MEXICO",
-      link: "",
+      name: "F L O R I D A",
+      link: "https://g.page/sandestin-golf-and-beach-resort?share",
     },
     dates: {
       startDate: "14 Jan, 2021",
       endDate: "24 Jan, 2021"
     },
-    description: "Visited Cancun with family and stayed in an all-inclusive resort. Swam with dolphins, jet-skied to the coral reef, laid in the sand for hours, explored the local shops,  and ate buffet for breakfast, lunch and dinner every day.",
+    description: "Stayed at Sandestin Golf and Beach Resort along the beach. Walked to the beach, floated in the ocean and tanned on the sand daily. Enjoyed a 60lb crab leg feast along with a wide selection of oysters and other seafoods. Great getaway to relax under the sun.",
   },
 ]

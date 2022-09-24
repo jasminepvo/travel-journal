@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import './App.css'
 import './components/Navbar.css'
 import './components/TravelCard.css'
@@ -7,7 +6,6 @@ import TravelCard from './components/TravelCard'
 import Data from './Data'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   const cards = Data.map(card => {
     return (
@@ -24,13 +22,6 @@ function App() {
       <section className='cards-list'>
         {cards}
       </section>
-
-      {/* <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          Give Likes {count}
-        </button>
-      </div> */}
-
     </div>
   )
 }
