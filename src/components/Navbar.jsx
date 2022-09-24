@@ -7,7 +7,7 @@ export default function Navbar() {
     <div className='navbar'>
       <nav>
         <img src={Logo} />
-        <h4>my travel journal</h4>
+        <h4>- my travel journal -</h4>
       </nav>
     </div>
   )
