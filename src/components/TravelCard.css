@@ -1,0 +1,21 @@
+.card {
+	width: 80%;
+	height: 20%;
+	margin: 2% 10%;
+	outline: 2px solid green;
+	display: flex;
+	flex-direction: row;
+	gap: 20px;
+}
+
+.card--image {
+	width: 300px;
+	height: auto;
+	border-radius: 5px;
+}
+
+.card--details {
+	margin: 10px 0;
+	width: 100%;
+	outline: 2px solid green;
+}

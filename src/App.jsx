@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import './App.css'
 import './components/Navbar.css'
+import './components/TravelCard.css'
 import Navbar from './components/Navbar'
 import TravelCard from './components/TravelCard'
 import Data from './Data'
