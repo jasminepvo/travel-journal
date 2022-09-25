@@ -36,8 +36,8 @@ export default [
       link: "https://g.page/sandestin-golf-and-beach-resort?share",
     },
     dates: {
-      startDate: "14 Jan, 2021",
-      endDate: "24 Jan, 2021"
+      startDate: "27 June, 2022",
+      endDate: "2 July, 2022"
     },
     description: "Stayed at Sandestin Golf and Beach Resort along the beach. Walked to the beach, floated in the ocean and tanned on the sand daily. Enjoyed a 60lb crab leg feast along with a wide selection of oysters and other seafoods. Great getaway to relax under the sun.",
   },
