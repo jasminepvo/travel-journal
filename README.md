@@ -1,5 +1,5 @@
 # Travel Gal
-Travel Gal is a travel journal to help document your travels.
+Travel Gal is a travel journal to help document your travels and keep those memories forever.
 
 **Link to project:** https://travelgal.netlify.app/
 
