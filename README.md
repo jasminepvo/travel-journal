@@ -41,4 +41,4 @@ Take a look at these couple examples that I have in my own portfolio:
 
 **Etch A Sketch:** https://github.com/jasminepvo/etch-a-sketch
 
-**Rock Paper Scissors:** https://github.com/jasminepvo/rock-paper-scissors
+**AngelHope:** https://github.com/jasminepvo/angelhope
