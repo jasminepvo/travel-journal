@@ -7,7 +7,27 @@ Travel Gal is a travel journal to help document your travels and keep those memo
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, React, Vite
+**Tech used:** <div style="display: flex; flex-direction: row;" align=left >
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=HTML5&logoColor=white&labelColor=AD9D90&label=&message=HTML&color=AD9D90"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=CSS3&logoColor=white&labelColor=AD9D90&label=&message=CSS&color=AD9D90"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=javascript&logoColor=white&labelColor=AD9D90&label=&message=JAVASCRIPT&color=AD9D90"/>
+  </a>
+  <a href="https://beta.reactjs.org/" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=react&logoColor=white&labelColor=AD9D90&label=&message=REACT&color=AD9D90"/>
+  </a>
+  <a href="https://vitejs.dev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=vite&logoColor=white&labelColor=AD9D90&label=&message=VITE&color=AD9D90"/>
+  </a>
+  <a href="https://www.git-scm.com/doc" target="_blank">
+    <img src="https://img.shields.io/static/v1?&style=flat&logo=git&logoColor=white&labelColor=AD9D90&label=&message=GIT&color=AD9D90"/>
+  </a>
+
+</div>
 
 Initial configuration:
 - npm create vite@latest
